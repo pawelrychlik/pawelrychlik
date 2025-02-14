@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Pawel Rychlik, I’m based in Poland 🇵🇱, EU.
+
+I’m a computer guy 💻. I snooze pagerduty alerts. I restart things and kill SQL queries 🔪. I add more resources and beef up the infrastructure. Then I complain about the cloud costs 🌩️. I sometimes skip post mortems. I procrastinate. But I meet my deadlines.
+
+I'm also a [co-founder](https://www.voucherify.io/) and a CTO. I like simplicity and pragmatism. I'm quite good with AWS, postgres, kubernetes, terraform, spreadsheets, node.js and security. After all these years I still suck at elasticsearch, though.
+
+I’m a husband and a father. That said, I whole-heartedly enjoy watching Bluey series, playing lego, programming in [Scratch](https://scratch.mit.edu/), camping and paddle boarding.
+
+I'm into ultra-cycling 🚴, but only as long as there's a time limit and a track to follow. I'm not fast by any means and I always carry too much gear, but I've managed to finish a couple of [randonneur](https://brevety.pl/) events up to 600 km (37 hours). Years ago, I bike-toured 2700 km around Iceland 🇮🇸 and did a little tour around the Baltic sea 🇩🇪 🇩🇰 🇸🇪 🌧️.
+
 <!--
 **pawelrychlik/pawelrychlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
